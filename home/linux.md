@@ -2,8 +2,8 @@
 title: NETPLAN sur Ubuntu
 description: 
 published: 1
-date: 2021-03-14T19:04:54.527Z
-tags: linux
+date: 2021-03-14T20:09:12.070Z
+tags: linux, réseau
 editor: markdown
 dateCreated: 2021-03-14T19:04:54.527Z
 ---
