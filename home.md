@@ -1,9 +1,9 @@
 ---
 title: Pilote Macvlan pour Docker
-description: Une page test pour vérifier le paramétrage
+description: description du fonctionnement de macvlan sous linux pour Docker
 published: 1
-date: 2021-03-14T18:41:40.434Z
-tags: test
+date: 2021-03-14T20:13:16.036Z
+tags: réseau, docker
 editor: markdown
 dateCreated: 2021-03-12T22:22:07.311Z
 ---
