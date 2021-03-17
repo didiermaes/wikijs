@@ -2,7 +2,7 @@
 title: Installation d'un widget custom sur Webapp Builder Dev Edition
 description: Différentes étapes de mise ne place d'un widget custom
 published: 1
-date: 2021-03-17T09:09:28.151Z
+date: 2021-03-17T09:14:55.258Z
 tags: esri, sig, widget
 editor: markdown
 dateCreated: 2021-03-17T09:09:28.151Z
@@ -29,6 +29,7 @@ https://web-appbuilder-widget-search.surge.sh/
 
 Je vais prendre l'exemple du widget de profil d'élévation créé par le talentueux Robert Scheitlin. Rechercher dans [GeoNet](https://community.esri.com/t5/web-appbuilder-custom-widgets/tkb-p/web-appbuilder-custom-widgetstkb-board) « élévation » à l'aide de la zone de recherche. Les résultats suivants devraient apparaître.
 
+![community_600.jpg](/community_600.jpg){.align-center}
 
 
 
